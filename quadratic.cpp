@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 
-// This Program finds the roots of a quadratic equation by using the quadratic formula 
+// This Program finds the roots of the quadratic equation using the quadratic formula 
 
 int main() {
   double a,b,c;
