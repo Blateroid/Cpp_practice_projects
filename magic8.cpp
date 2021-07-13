@@ -1,4 +1,5 @@
-//This program tries to simulate the super popular magic 8 ball toy that was developed in the 1950s. The idea is that the program will output a random phrase from all the availables phrases.
+//This program tries to simulate the super popular magic 8 ball toy that was developed in the 1950s. 
+//The idea is that the program will output a random phrase from all the availables phrases.
 #include<iostream>
 
 int main(){
